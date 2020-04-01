@@ -31,7 +31,7 @@ public class Leetcode961 {
                 return entry.getKey();
             }
         }
-        return 0;
+        return A[0];
     }
 
     // hack solution
